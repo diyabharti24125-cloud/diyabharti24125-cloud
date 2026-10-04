@@ -1,14 +1,15 @@
 # Hi, I'm Diya Bharti 👋
 
-### Aspiring Software Developer | Python & Backend Development
+### Aspiring Software Developer | Backend & Data
 
-I'm a BCA student interested in building practical software and solving problems through code.
+I'm a BCA student interested in building practical software, developing backend systems, and working with data to solve real-world problems.
 
 ### 🛠️ Technologies
 
-- **Languages:** Python, C, Java, SQL
+- **Languages:** Python, SQL
 - **Backend:** FastAPI, REST APIs
 - **Database:** PostgreSQL, SQL
+- **Data:** Pandas, NumPy, Matplotlib, Power BI, Excel
 - **Frontend:** React, TypeScript, HTML, CSS
 - **Tools:** Git, GitHub, VS Code
 
@@ -18,10 +19,11 @@ I'm a BCA student interested in building practical software and solving problems
 - REST API development
 - PostgreSQL and database design
 - Data Structures and Problem Solving
+- Practical data analysis with Python and SQL
 
 ### 📌 Goals
 
-Building practical projects, improving my software development skills, and preparing for opportunities in software engineering and backend development.
+Building practical projects, improving my software development and data skills, and preparing for opportunities in software engineering, backend development, and data analysis.
 
 ### 📫 Connect With Me
 
