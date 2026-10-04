@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Diya Bharti 👋
 
-<!--
-**diyabharti24125-cloud/diyabharti24125-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Software Developer | Python & Backend Development
 
-Here are some ideas to get you started:
+I'm a BCA student interested in building practical software and solving problems through code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies
+
+- **Languages:** Python, C, Java, SQL
+- **Backend:** FastAPI, REST APIs
+- **Database:** PostgreSQL, SQL
+- **Frontend:** React, TypeScript, HTML, CSS
+- **Tools:** Git, GitHub, VS Code
+
+### 🌱 Currently Learning
+
+- Backend development with Python and FastAPI
+- REST API development
+- PostgreSQL and database design
+- Data Structures and Problem Solving
+
+### 📌 Goals
+
+Building practical projects, improving my software development skills, and preparing for opportunities in software engineering and backend development.
+
+### 📫 Connect With Me
+
+- LinkedIn: [Diya Bharti](https://www.linkedin.com/in/diya-bharti-62036935a/)
